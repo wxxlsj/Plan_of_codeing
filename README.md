@@ -1,2 +1,2 @@
-# pratice
-just for praticing
+## 
+#2019/5/9 今天开始好好利用GitHub，记录自己的代码。
